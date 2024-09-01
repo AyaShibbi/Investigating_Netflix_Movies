@@ -9,8 +9,10 @@ This project applies foundational Python skills to explore and analyze Netflix m
 # Project approach:
 *1. Filter the Data:*
 - Subset the dataset to include only movies released in the 1990s (1990-1999).
+
 *2. Find the Most Frequent Movie Duration:*
 - Visualize the distribution of movie durations using a histogram and identify the most frequent duration.
+
 *3. Count Short Action Movies:*
 - Filter the dataset to include only action movies and count how many are less than 90 minutes long.
 
